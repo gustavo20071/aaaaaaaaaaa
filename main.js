@@ -42,9 +42,3 @@ function geraSenha(){
     }
     campoSenha.value = senha;
 }
-
-const campoSenha = document.querySelector('#campo-senha');
-
-const letrasMaiusculas = 'ABCDEFGHIJKLMNOPQRSTUVXYWZ';
-
-campoSenha.value = letrasMaiusculas;

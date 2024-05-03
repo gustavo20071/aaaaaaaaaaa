@@ -90,3 +90,8 @@ body{
         flex-direction: row;
     }
 }
+
+.parametro-senha{
+    width: 50%;
+    margin: 0 auto;
+}
